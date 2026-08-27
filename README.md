@@ -4,10 +4,10 @@ do professor Augusto N. G. Manzano e "Programando em Lua" de Roberto Ierusalimsc
 Este repositório contêm exemplos, anotações, exercícios e pequenos projetos 
 desenvolvidos na linguagem Lua.
 
-#Objetivo
+# Objetivo
 
 Este repositório foi criado com o objetivo de : 
-- Aprender os funamentos da linguagem Lua
+- Aprender os fundamentos da linguagem Lua
 - Praticar a escrita da linguagem
 - Marcar o progresso e desenvolvimento pessoal
 - Experimentar com diferentes funcionalidades da linguagem
