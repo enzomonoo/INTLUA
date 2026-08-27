@@ -5,7 +5,7 @@ exercícios e pequenos projetos desenvolvidos na linguagem Lua.
 
 ##Objetivo
 
-Este reposiorio foi criado com o objetivo de : 
+Este repositório foi criado com o objetivo de : 
 - Aprender os funamentos da linguagem Lua
 - Praticar a escrita da linguagem
 - Marcar o progresso e desenvolvimento pessoal
