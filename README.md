@@ -1,9 +1,10 @@
 # INTLUA
-Repositório de estudo seguindo os livros "Introdução à Linguagem Lua" e "Algoritmos" 
-do professor Augusto N. G. Manzano. Este repositório contêm exemplos, anotações, 
-exercícios e pequenos projetos desenvolvidos na linguagem Lua.
+Repositório de estudo seguindo os livros "Introdução à Linguagem Lua" , "Algoritmos" 
+do professor Augusto N. G. Manzano e "Programando em Lua" de Roberto Ierusalimschy.
+Este repositório contêm exemplos, anotações, exercícios e pequenos projetos 
+desenvolvidos na linguagem Lua.
 
-##Objetivo
+#Objetivo
 
 Este repositório foi criado com o objetivo de : 
 - Aprender os funamentos da linguagem Lua
