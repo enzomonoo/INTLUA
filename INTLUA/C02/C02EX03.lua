@@ -19,5 +19,4 @@ io.write("Desconto ............................ : ", TD, "\n")
 io.write("Salario Liquido...................... : ", SL, "\n")
 
 io.write("\n", "Aperte [Enter] para encerrar...")
-io.read()
-
+io.read('*l')

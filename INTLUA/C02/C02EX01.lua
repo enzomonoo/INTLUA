@@ -17,4 +17,4 @@ io.write("Resultado Multiplicacao... : ", X3, "\n")
 io.write("Resultado Divisao......... : ", X4, "\n")
 
 io.write("Aperte [Enter] para encerrar...")
-io.read()
+io.read('*l')

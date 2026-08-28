@@ -22,5 +22,4 @@ io.write("Salario Liquido...................... : ")
 io.write(string.format("%7.2f",SL), "\n")
 
 io.write("\n", "Aperte [Enter] para encerrar...")
-io.read()
-
+io.read('*l')
